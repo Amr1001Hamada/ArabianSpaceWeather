@@ -55,8 +55,12 @@ pip install -r requirements.txt
 
 إذا استخدمت هذا المستودع في بحثك، يُرجى الإشارة إلى المرجع التالي:
 
-عمرو حمادة. (2025). *الشمس، والطقس الفضائى: التعريف، الأسباب، والتأثير
-مراجعة عربية*
+للاستشهاد بهذا العمل:
+عمرو، حمادة (2024). من الشمس إلى الأرض: مدخل علمي مبسّط إلى الطقس الفضائي. مراجعة عربية – 1.  
+
+Citation (English): 
+Hamada, A. (2024). From the Sun to the Earth: A Simplified Scientific Introduction to Space Weather. Arabic Review – 1. 
+*
 > المستودع: [https://github.com/Amr1001Hamada/ArabianSpaceWeather](https://github.com/Amr1001Hamada/ArabianSpaceWeather)
 
 ---
