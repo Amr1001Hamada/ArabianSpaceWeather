@@ -72,6 +72,6 @@ Hamada, A. (2024). From the Sun to the Earth: A Simplified Scientific Introducti
 
 انظر ملف `LICENSE` لمزيد من التفاصيل.
 <p align="center">
-  <img src="https://github.com/Amr1001Hamada/ArabianSpaceWeather/blob/main/Figures/TN/TN.png"
+  <img src="https://github.com/Amr1001Hamada/ArabianSpaceWeather/blob/main/Figures/TN/TN2.png"
        alt="Arabian Space Weather Thumbnail" width="30%">
 </p>
