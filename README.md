@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Amr1001Hamada/ArabianSpaceWeather/blob/main/Figures/TN/TN.png"
-       alt="Arabian Space Weather Thumbnail" width="60%">
+       alt="Arabian Space Weather Thumbnail" width="30%">
 </p>
 
 
