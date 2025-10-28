@@ -1,4 +1,9 @@
-# الطقس الفضائى العربى
+<p align="center">
+  <img src="https://github.com/Amr1001Hamada/ArabianSpaceWeather/blob/main/Figures/TN/TN.png" 
+       alt="Arabian Space Weather Thumbnail" width="80%">
+</p>
+
+# Arabian Space Weather (الطقس الفضائي العربي)
 
 إعداد: د. عمرو حمادة  
 المرصد الشمسي الوطني (NSO) – جامعة كولورادو، بولدر ، الولايات المتحدة
