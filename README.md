@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Amr1001Hamada/ArabianSpaceWeather/blob/main/Figures/TN/TN.png"
-       alt="Arabian Space Weather Thumbnail" width="30%">
-</p>
+
 
 
 # Arabian Space Weather (الطقس الفضائي العربي)
@@ -74,3 +71,7 @@ Hamada, A. (2024). From the Sun to the Earth: A Simplified Scientific Introducti
 ## الترخيص
 
 انظر ملف `LICENSE` لمزيد من التفاصيل.
+<p align="center">
+  <img src="https://github.com/Amr1001Hamada/ArabianSpaceWeather/blob/main/Figures/TN/TN.png"
+       alt="Arabian Space Weather Thumbnail" width="30%">
+</p>
